@@ -1,6 +1,12 @@
-# Python-Practice
+<p align="center">
+  <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="Python Logo" width="180">
+</p>
 
-Hands-on Python practice covering programming fundamentals, data types, control flow, functions, and practical projects.
+<h1 align="center">Python-Practice</h1>
+
+<p align="center">
+  Hands-on Python practice covering programming fundamentals, data types, control flow, functions, and practical projects.
+</p>
 
 ## 📚 Topics Covered
 
@@ -23,6 +29,7 @@ A simple Python program that calculates Body Mass Index (BMI) based on user-prov
 A Python automation project that organizes files into separate folders based on their file extensions.
 
 **File categories handled:**
+
 - Image files
 - PDF files
 - Document files
@@ -44,27 +51,33 @@ Python-Practice/
 ├── 08-BMI Calculator.ipynb
 ├── 09-Automatic File Sorter In File Explorer.ipynb
 └── README.md
+```
 
-🛠️ Tools & Technologies
-Python
-Jupyter Notebook
+## 🛠️ Tools & Technologies
 
-🎯 Learning Objective
+- Python
+- Jupyter Notebook
+
+## 🎯 Learning Objective
 
 This repository documents my hands-on Python learning journey, from programming fundamentals to small practical automation projects.
+
 The focus is on building a strong foundation in Python through practical coding and experimentation.
 
-📈 Progress
- - [x]Python Fundamentals
- - [x]Data Types
- - [x]Type Conversion
- - [x]Operators
- - [x]Conditional Statements
- - [x]Loops
- - [x]Functions
- - [x]BMI Calculator (Mini Project)
- - [x]Automatic File Sirter in File Explorer (Mini Project)
+## 📈 Progress
 
-## Author
+- [x] Python Fundamentals
+- [x] Data Types
+- [x] Type Conversion
+- [x] Operators
+- [x] Conditional Statements
+- [x] Loops
+- [x] Functions
+- [x] BMI Calculator (Mini Project)
+- [x] Automatic File Sorter in File Explorer (Mini Project)
+
+## 👩‍💻 Author
+
 **Safa Janjirkar**
+
 Computer Science & Engineering (AI & ML)
